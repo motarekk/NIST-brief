@@ -18,7 +18,7 @@ PROFILES:
 - Gap analysis
 
 IMPLEMENTATION TIERS:
- 1- Partial
+1- Partial
  2- Risk Informed
  3- Repeatable
  4- Adaptive
