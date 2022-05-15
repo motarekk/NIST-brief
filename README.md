@@ -9,13 +9,13 @@ CORE:
 identify = understand what assets you have in the organization.
 protect = figure out how you're going to defend these assets.
 detect = continuous monitoring for breaches and different types of infiltration that maybe happening.
- respond = looking for ways to respond when a breach happens.
- recover = be able to get your business back up and running 100% after a breach has happened. (BCP - DRP)
+respond = looking for ways to respond when a breach happens.
+recover = be able to get your business back up and running 100% after a breach has happened. (BCP - DRP)
 
 PROFILES:
-Target profile
- Current profile
- Gap analysis
+- Target profile
+- Current profile
+- Gap analysis
 
 IMPLEMENTATION TIERS:
  1- Partial
