@@ -22,3 +22,8 @@ IMPLEMENTATION TIERS:
 2- Risk Informed
 3- Repeatable
 4- Adaptive
+
+
+<img width="360" alt="NIST-CSF" src="https://user-images.githubusercontent.com/104282801/182027830-42b1852b-4c8d-4f1b-a84e-9de8dab9229c.PNG">
+
+
